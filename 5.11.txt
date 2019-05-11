@@ -10,7 +10,7 @@ I hope tomorrow will not be so bad.
 wow.
 I change my app into vue-app sucessfully. It is the only thing that can make me happy.
 I achieved my goal.
-Never make myself feel didappointed. 
+Never make myself feel disappointed. 
 
 The target of tomorrow:
 1.solve the swiper problem of vue-app.
