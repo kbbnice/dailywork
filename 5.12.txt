@@ -1,0 +1,9 @@
+today I will describe my task in Chinese.
+Let's begin :
+
+学习怎么通过git 合并多人合作的代码。
+
+1. git pull 怎样让代码不会覆盖或者覆盖。
+2. 怎样解决代码冲突？
+3. 分支合并问题深入解决。
+
