@@ -9,5 +9,8 @@ What should I do this week?
 these may will takes me a lot of time. 
 I need plenty of energy to keep my study efficiently.
 
+Add someting:
 
+1. typescript
+2. cube-ui
 
