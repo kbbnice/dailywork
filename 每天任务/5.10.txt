@@ -1,0 +1,20 @@
+Today I learned how to build a vue-cli environment. And now I am trying to use vue-cli to start a project.
+by: Kbb 2019.5.10 14:18
+
+2.
+the vue document shows that the core livrary is fucused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects.
+
+by: Kbb 16:53
+
+3.
+today I learned how to use swiper. and solve the problem about the first picture can't run behind the last picture directly. 
+The reason for this problem is I didn't use the property of 'stopOnLastSlide'.
+
+by Kbb 18:16
+
+4.
+now it is 21:33 at night. I work overtime everyday though I have been here for 2 days. And also I will come here tomorrow, it is saturday tomorrow and we are not forced to come but of one's own accord. I have to learn Vue as soon as posible. 
+I also have to learn how to adapt my code to any mobile. 
+Go on working. And never say hard.
+
+by: Kbb 21:38
