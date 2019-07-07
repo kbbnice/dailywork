@@ -1,0 +1,31 @@
+7.3 计划： 
+
+*** 找周报格式  	× 失败 和群里的格式差不多 ---->>>> 下午完成。
+		---->>>> // 周报系统
+
+
+
+1. 查询报告页面修改bug:
+		√ 帅帅解决--> ① 解决软键盘导致的body上移的问题。
+		--> ② 解决ajax跳转的data数据渲染问题。  （ 扶俊冰解决，尚未同步svn）
+
+2. 孜然的页面
+		--> ① d3.3
+		--> ② d4.2 (手贱的我~~~~就像是一个天空飘来的沙雕~~~~乱删代码~依然如此自在飘摇~~~~啊~~~~）
+		--> ③ d5.2
+
+	链接：
+
+https://lanhuapp.com/web/#/item/project/product?pid=6b5a7119-a1c1-4d83-a887-2cde48f3d025&docId=b85b36ce-6ee3-466b-b999-56a721f72a3e&docType=axure&pageId=0f3e7e04b96843d19e3e36925537896e&image_id=b85b36ce-6ee3-466b-b999-56a721f72a3e&type=share_mark&param=c32d09f7-6bb0-42e0-8255-ad31a97e3043&tab=product&teamId=89cc25b8-ce0d-41d8-80f2-d4ddfbdf06b6&parentId=661490f1-0858-41e2-a37f-b74772ab45b2
+
+
+本周末计划： 
+
+1. 周五麦麦和爸爸生日
+
+2. 周六早上带麦麦去医院
+
+3. 周天加班！
+
+4. 
+
